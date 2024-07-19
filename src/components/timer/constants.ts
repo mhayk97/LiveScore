@@ -1,0 +1,2 @@
+export const CIRCLE_CIRCUMFERENCE = 283;
+export const PROGRESS_MULTIPLIER = 2.83;
