@@ -16,6 +16,10 @@ This project is a Live Score application built with React, Next.js, and styled-c
 - **Styled-components**: Library for styling React components using tagged template literals
 - **TypeScript**: Typed superset of JavaScript that compiles to plain JavaScript
 
+## Notes
+
+- There is no calls to real API (All data is mocked , therefore there is no pagination functionality and etc)
+
 ## Installation
 
 1. Clone the repository:
